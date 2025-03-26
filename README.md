@@ -1,2 +1,2 @@
 # circle
-# circle.git/workflow-escrow.git
+# circle/workflow-escrow.git
